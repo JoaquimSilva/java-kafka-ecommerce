@@ -1,0 +1,3 @@
+br/com/alura/ecommerce/httpservice/Order.class
+br/com/alura/ecommerce/httpservice/NewOrderServlet.class
+br/com/alura/ecommerce/httpservice/HttpService.class

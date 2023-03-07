@@ -1,0 +1,7 @@
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonSerializer.java
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/EmailGeneratorRanddomUtil.java
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/BigDecimalRandomUtil.java
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonDeserializer.java
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
+/Users/rafaeljs/Dev/estudos_java-spring/kafka-introducao-e-microservicos/video5.3/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java

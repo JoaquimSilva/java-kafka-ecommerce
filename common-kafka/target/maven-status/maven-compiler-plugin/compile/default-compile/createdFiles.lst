@@ -1,0 +1,7 @@
+br/com/alura/ecommerce/EmailGeneratorRanddomUtil.class
+br/com/alura/ecommerce/BigDecimalRandomUtil.class
+br/com/alura/ecommerce/GsonSerializer.class
+br/com/alura/ecommerce/ConsumerFunction.class
+br/com/alura/ecommerce/KafkaDispatcher.class
+br/com/alura/ecommerce/GsonDeserializer.class
+br/com/alura/ecommerce/KafkaService.class
